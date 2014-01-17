@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_FrndMngr"
+        android:orderInCategory="80"
+        android:showAsAction="never"
+        android:title="@string/action_FrndMngr"/>
+    <item
+        android:id="@+id/action_MsgMngr"
+        android:orderInCategory="90"
+        android:showAsAction="never"
+        android:title="@string/action_MsgMngr"/>
+    <item
+        android:id="@+id/action_ContMngr"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_ContMngr"/>
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="110"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+
+</menu>
