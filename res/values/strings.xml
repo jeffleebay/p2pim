@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">P2PIM</string>
+    <string name="hello">hello</string>
+    <string name="image_desc">Blank Image Description</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_FrndMngr">FrndMngr</string>
+    <string name="action_MsgMngr">MsgMngr</string>
+    <string name="action_ContMngr">ContMngr</string>
+    <string name="action_settings">Settings</string>
+    <string name="create_Msgs">Create Msgs</string>
+    <string name="delete_Msgs">Delete Msgs</string>
+    <string name="generate_Msg">Generate Msgs</string>
+    <string name="defaul_Name">Default Username</string>
+    <string name="defaul_Status">Please press to add the friend into your P2PIM contact list</string>
+
+</resources>
